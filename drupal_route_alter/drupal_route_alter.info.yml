@@ -1,0 +1,5 @@
+name: Drupal up route subscriber
+description: altering routesi in our drupl instance
+type: module
+core: 8.x
+
